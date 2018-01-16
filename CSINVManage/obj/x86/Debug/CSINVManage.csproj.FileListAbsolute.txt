@@ -1,0 +1,15 @@
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\bin\x86\Debug\App.config
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\bin\x86\Debug\PhoneInventoryManage.exe.config
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\bin\x86\Debug\PhoneInventoryManage.exe.manifest
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\bin\x86\Debug\PhoneInventoryManage.application
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\bin\x86\Debug\PhoneInventoryManage.exe
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\bin\x86\Debug\PhoneInventoryManage.pdb
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\CSINVManage.csprojResolveAssemblyReference.cache
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\CSINVManage.Form1.resources
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\CSINVManage.Form2.resources
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\CSINVManage.Properties.Resources.resources
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\CSINVManage.csproj.GenerateResource.Cache
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\PhoneInventoryManage.exe.manifest
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\PhoneInventoryManage.application
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\PhoneInventoryManage.exe
+C:\Users\Oska\documents\visual studio 2015\Projects\CSINVManage\CSINVManage\obj\x86\Debug\PhoneInventoryManage.pdb
